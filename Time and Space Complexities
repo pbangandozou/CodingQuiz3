@@ -1,0 +1,10 @@
+Mini-Max Sum
+
+Time complexity: The time complexity of the program was O(n) because we iterated the list of numbers n times. To find the minimum and the maximum
+Space Compelxity: The space complexity was O(1) because, depending on the input, it only took a constant amount of storage.
+
+
+Hackerrank In a String
+
+Time Complexity: The time complexity of the program was O(n^2) because we iterated the list of letters once but due to the recursion it called its self n^2 times.
+Space Complexity: The time complexity of the program was O(n) because when we iterate the the strings we dont know exactly the input so it can be anythig
